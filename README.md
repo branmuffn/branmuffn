@@ -12,7 +12,7 @@ in Analytics at Georgia Tech and building with data, automation, and AI.
 
 - **[Frontline Squad](https://github.com/branmuffn/frontline-squad)**: a browser FPS with no install and no game
   server. 12 modes, 9 maps, a map editor, bots, vehicles, and 12-player peer-to-peer multiplayer over WebRTC.
-  Ships as one HTML file. [Play it](https://frontline-squad.netlify.app).
+  Ships as one HTML file. [Play it](https://frontlinesquad.vercel.app).
 - **OnBoard**: Gloo AI Hackathon 2026, Winner, Best of the Ministry Track. A mobile web app that helps solo
   missionaries turn moments from the field into prayer requests and newsletters in their own words.
   (Team project; the code is private.)
